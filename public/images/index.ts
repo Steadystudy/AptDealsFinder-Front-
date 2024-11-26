@@ -1,0 +1,10 @@
+export { default as cafeMark } from './cafe.jpeg';
+export { default as restaurantMark } from './restaurant.jpeg';
+export { default as hospitalMark } from './hospital.jpeg';
+export { default as houseMark } from './house.jpeg';
+export { default as distanceMark } from './distance.png';
+export { default as searchNoMark } from './searchNo.png';
+export { default as cryingMark } from './crying.png';
+export { default as pauseMark } from './pause.png';
+export { default as submitMark } from './submit.png';
+export { default as logoMark } from './logo.png';
